@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dodsie
-- - Passionate future Full Stack Developer.
-- I am currently atttending <a href=https://www.lighthouselabs.ca>LightHouseLabs</a> Full Stack Web Dev Bootcamp.
+- - Passionate Full Stack Developer.
+- <a href=https://www.lighthouselabs.ca>LightHouseLabs</a> Full Stack Web Dev Bootcamp Alumni.
 - You can reach me at <b>baileydods@gmail.com</b>
 <!---
 Dodsie/Dodsie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
